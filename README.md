@@ -1,5 +1,8 @@
 # Stranded Deep Chinese
 
+![image](https://user-images.githubusercontent.com/83285056/178797640-50f82479-bbc9-4948-89bb-d3ec5591c4f1.png)
+
+
 ## 深海搁浅(荒岛求生)游戏-0.90.11-Steam版
 
 ## 简体中文版
