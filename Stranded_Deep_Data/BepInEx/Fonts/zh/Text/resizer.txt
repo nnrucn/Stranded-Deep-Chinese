@@ -1,0 +1,10 @@
+UI - Watch(Clone)/Canvas - Watch/View - Watch/GameObject/Top Bar/Label - Time (1)=ChangeFontSize(20);
+UI - Watch(Clone)/Canvas - Watch/View - Watch/GameObject/Top Bar/Label - Time Background (1)=ChangeFontSize(20);
+UI - Watch(Clone)/Canvas - Watch/View - Watch/GameObject/Top Bar/Label - Date (1)=ChangeFontSize(20);
+UI - Watch(Clone)/Canvas - Watch/View - Watch/GameObject/Top Bar/Label - Date Background (1)=ChangeFontSize(20);
+UI - Watch(Clone)/Canvas - Watch/View - Watch/GameObject/Top Bar/Label - Temperature=ChangeFontSize(20);
+UI - Watch(Clone)/Canvas - Watch/View - Watch/GameObject/Top Bar/Label - Temperature Background=ChangeFontSize(20);
+UI - Watch(Clone)/Canvas - Watch/View - Watch/GameObject/Top Bar/Label - UV Index (1)=ChangeFontSize(20);
+UI - Watch(Clone)/Canvas - Watch/View - Watch/GameObject/Top Bar/Label - Days Survived=ChangeFontSize(20);
+UI - Watch(Clone)/Canvas - Watch/View - Watch/GameObject/Top Bar/Image - Temperature=ChangeFontSize(20);
+CONTAINER - Map Editor Menu/UI - Map Editor/Views/Canvas/View - Map Editor/LE/RightMenu_Root/RightMenu_Terrain/RightMenu_TerrainEdit_BG/SizeSlider=ChangeFontSize(17);

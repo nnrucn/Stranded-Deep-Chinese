@@ -1,0 +1,1164 @@
+[Message:   BepInEx] BepInEx 5.4.19.0 - Stranded_Deep (2022/4/13 16:33:05)
+[Info   :   BepInEx] Running under Unity v2019.4.20.7197120
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Info   :   BepInEx] BepInEx is about load the following assemblies:
+UnityEngine.CoreModule.dll
+[Info   :   BepInEx] The assemblies were dumped into D:\Steam\steamapps\common\Stranded Deep\Stranded_Deep_Data\BepInEx\DumpedAssemblies\Stranded_Deep
+[Info   :   BepInEx] Load any assemblies into the debugger, set breakpoints and continue execution.
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 3 plugins to load
+[Info   :   BepInEx] Loading [XUnity Auto Translator 5.1.0]
+[Info   :XUnity.AutoTranslator] Loaded XUnity.AutoTranslator into Unity [2019.4.20f1] game.
+[Info   :   BepInEx] Loading [XUnity Resource Redirector 2.0.0]
+[Info   :   BepInEx] Loading [深海搁浅Mod 0.90.11]
+[Message:   深海搁浅Mod] 开启:语言文本读取,深海搁浅贴吧吧务组
+[Message:   深海搁浅Mod] 开启:使用床或者睡袋的存档保存提示,深海搁浅贴吧吧务组
+[Message:   深海搁浅Mod] 开启:背包-修改器,深海搁浅贴吧吧务组
+[Message:   BepInEx] Chainloader startup complete
+[Info   :XUnity.AutoTranslator] Skipping plugin scan because no plugin-specific translations has been registered.
+[Info   :XUnity.AutoTranslator] Attempting to load TextMesh Pro font from asset bundle.
+[Info   :XUnity.AutoTranslator] Loaded TextMesh Pro font uses version: Unknown
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<color=white><align=center>请按回车键进入游戏
+
+本汉化补丁免费不收钱!</color>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Start Screen/UI/Canvas/Label
+[Info   :XUnity.AutoTranslator] Level: 0
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '返回到游戏主界面'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Main Menu - Interface/Group - Buttons/Button - Quit/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=30>退出</size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Main Menu - Interface/Group - Buttons/Button - Quit/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=30><color=#ffffff>出海的时候小心暴风雨</color></size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Overlays/Views/Canvas/View - Text Screen/Text Group/Image - Bottom/Group - Tooltip/Label - Tooltip
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '飞机-游戏结局场景'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '飞机-引擎零件'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '飞机-螺旋桨零件'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '飞机-脚踏板零件'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '筋骨草'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '一丛筋骨草'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '海芋植物1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '海芋植物2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '芦荟植物'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '一丛芦荟'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '射水鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '香蕉植物'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '绷带'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁桶'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁桶堆'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '蝙蝠-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '床'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '避难所'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '大岩石1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '大岩石2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '大岩石3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '大岩石4'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '大岩石5'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的小野猪'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '小野猪-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的小野猪'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮球'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-门框'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-门'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-墙'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-屋顶'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-屋顶角'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-屋顶'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-楔形屋顶'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖块制作台'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-梯子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-半面墙'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-窗户'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-楔形地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖制-楔形地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砖块'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮球'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮球堆'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '应急罐头'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '龟背竹植物1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '龟背竹植物2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '龟背竹植物3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '黏土'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '石山1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '石山2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '石山3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '石山4'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '石山5'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '石山6'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '布'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '小丑鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '草丛'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '可饮用的椰子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '椰子水壶'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '半个椰子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '椰子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '银鳕鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '指南针'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船上的储存柜'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '箱子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '游戏结局-奖励箱子1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '游戏结局-奖励箱子2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船上的大型储存柜'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船上的小型储存柜'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '箱子货架'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-门框'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-门'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-墙'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-架子(用于墙上固定)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-梯子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-桌子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-半面墙'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-窗户'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-楔形地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制-楔形地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的小螃蟹'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的小螃蟹'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '七彩神仙鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船的废弃门1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船的废弃门2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船的废弃门3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船的废弃门4'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船的废弃门5'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船的废弃门6'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船的废弃门7'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船的废弃门8'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木-门框'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木-门'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木-地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木-地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木-墙'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木堆'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木-梯子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木-木棍'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木-半面墙'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木-窗户'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木-楔形地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '浮木-楔形地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '胶带'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '彩蛋-快递箱子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '彩蛋-威尔逊'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '粗制锄头'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁制围栏-耕地'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板围栏-耕地'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制围栏-耕地'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '榕树1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '榕树2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '榕树3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '榕树4-(不能砍)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '榕树5-(不能砍)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '火把'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '钓鱼竿'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '照明枪'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '手电筒'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '汽油蒸馏器'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '空的汽油桶'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '火炉'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的帝王蟹'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '帝王蟹-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的帝王蟹'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '石斑鱼-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '旋翼机基座'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '旋翼机驾驶舱'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '旋翼机马达'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '旋翼机螺旋桨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '旋翼机座椅'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '旋翼机-请不要点击此项'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '草丛'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁桶炉'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的大野猪'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '大野猪-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的大野猪'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '物品堆'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '钻木取火工具'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '诺丽果'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '诺丽果树'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '物品名修改枪'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '手提灯'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '皮革'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '纤维叶子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '手提灯-挂钩'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '狮子鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '织布机'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '砍刀'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '马林鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '马林鱼-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '大块生肉'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '中等生肉'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '小块生肉'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '芦荟药膏(治疗中暑)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '解毒剂(治抗过敏)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '水下呼吸药'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '治伤口药'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '驱鲨药'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '可开采的大石头'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '可开采的黏土大石头'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to 'BOSS-大鳗鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to 'BOSS-巨齿鲨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to 'BOSS-大鱿鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to 'BOSS奖励品-大鳗鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to 'BOSS奖励品-巨齿鲨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to 'BOSS奖励品-大鱿鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '氧气瓶'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '弓的箭'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '低级营火'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '中级营火'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '高级营火'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '粗制斧头'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '粗制弓'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '粗制锤子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '粗制长矛'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '粗制鱼叉'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '精制斧头'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁锤'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '精制小刀  (生存必备神器)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '精制镐子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '精制长矛'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '气枪'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '气枪的箭'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '碳纤维枪'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '碳纤维枪的箭'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '船桨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '棕榈树1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '棕榈树2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '棕榈树3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '棕榈树4'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '棕榈叶'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '原木1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '原木2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '原木3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '棕榈树-树冠(头部)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '发电机-零件'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '引擎-零件'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '过滤器-零件'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '燃油泵-零件'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '旋翼机-零件'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的哥布林鲨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的锤头鲨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的虎鲨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沙丁鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '松树1-(不能砍)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '松树2-(不能砍)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '松树3-(不能砍)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '松树树苗2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '松树树苗3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '滨豇豆'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '滨豇豆植物'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '飞机残骸'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-门框'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-椅子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-门'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-墙'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-架子(用于墙上固定)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板制作台'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-梯子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-桌子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-半面墙'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-窗户'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-楔形地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板-楔形地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '土豆'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '土豆植物'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '梨子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '梨子树'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏-船锚'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏-浮球地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏-铁桶地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏-轮胎地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏-木制地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏-遮雨篷'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏-砖块地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏-铁制地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏-浮木地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏-木板制地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏-木制地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '生皮'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '小石头'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '绳子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船残骸3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '彩蛋-小黄鸭'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沙丁鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '铁板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '海上堡垒1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '海上堡垒2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '海上堡垒的桥'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '海上堡垒的桥-断裂'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的海鸥'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的哥布林鲨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的大白鲨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的锤头鲨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的虎鲨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的鲸鲨'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '哥布林鲨-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '大白鲨-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '锤头鲨-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '虎鲨-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '鲸鲨-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '岛上遗迹1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '岛上遗迹2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '岛上遗迹3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '岛上遗迹4'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '岛上遗迹5'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '岛上遗迹6'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '岛上遗迹7'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '岛上遗迹8'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '岛上遗迹9'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '集装箱1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '集装箱2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '集装箱3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '集装箱4'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '集装箱的门-(已拆卸)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '集装箱的门-(未拆卸)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '集装箱板子-(已拆卸)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '集装箱板子-(未拆卸)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船4'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船5'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船6'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船7'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船8'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '沉船9'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '海岸岩石1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '海岸岩石2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '大岩石1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '大岩石2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '大岩石3'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '熏肉架'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的毒蛇'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '毒蛇-尸体'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '活的毒蛇'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '夹板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '望远镜'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木棍'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '石头碎片'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏1-请不要点击此项'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏2-请不要点击此项'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏3-请不要点击此项'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '防晒霜'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '皮革制作架'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '布'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '布制墙'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '手电筒'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '捕鸟器'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '捕鱼器'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '轮胎'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '轮胎堆'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '旋翼机'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '救生筏'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏的马达'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏的舵'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木筏的船帆'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '空水袋(黏土)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '空水袋(皮革)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '水蒸馏器(雨水收集器)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '马鞍藤花'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '一丛马鞍藤'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '鲸鱼'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-门框'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-椅子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-门'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-挂钩'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-墙'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-屋顶'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-屋顶角'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-屋顶'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-楔形屋顶'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-架子(用于墙上固定)'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-梯子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-桌子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-半面墙'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-窗户'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-楔形地板'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '木制-楔形地基'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '棕榈树苗1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '棕榈树苗2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '亚麻树1'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '亚麻树种子'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'UnityEngine.UI.Text' to '亚麻树2'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Developer Console/Views/Canvas/View - Testing Console/Testing Console/Scroll View/Viewport/Content/PrefabListElement(Clone)/Text
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=28>游戏排行榜</size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Main Menu - Interface/Group - Buttons/Button - Leaderboards/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=28>岛屿编辑器</size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Main Menu - Interface/Group - Buttons/Button - Cartographer/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '返回'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Play - Interface/Group - Controls/Button - Back/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=40>返回</size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Play - Interface/Group - Controls/Button - Back/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=28>开始新游戏</size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Play - Interface/Group - Buttons/Button - New Game/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=28>继续单人模式</size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Play - Interface/Group - Buttons/Button - Continue/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=30><color=#ffffff>多打猎能提高你的攻击力技能</color></size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Overlays/Views/Canvas/View - Text Screen/Text Group/Image - Bottom/Group - Tooltip/Label - Tooltip
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=30>通知!</size>'
+[Info   :XUnity.AutoTranslator] Path : /PlayerUI(Clone)/Canvas - Game/View - General Notifications(Clone)/General Notifications/Notification - General(Clone)/Notification/Group/Group - Title/Label - Title
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=30>快上岛</size>'
+[Info   :XUnity.AutoTranslator] Path : /PlayerUI(Clone)/Canvas - Game/View - TL Notifications(Clone)/Group - TL Notifications/Element (Checklist Notification)(Clone)/Container - Notification Animation/Group - Notification/Label - Title
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=23>存档</size>'
+[Info   :XUnity.AutoTranslator] Path : /PlayerUI(Clone)/Canvas - Game/View - General Notifications(Clone)/General Notifications/Notification - General(Clone)/Notification/Group/Group - Title/Label - Title
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=23>已保存</size>'
+[Info   :XUnity.AutoTranslator] Path : /PlayerUI(Clone)/Canvas - Game/View - General Notifications(Clone)/General Notifications/Notification - General(Clone)/Notification/Group/Label - Message
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '返回到游戏主界面'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Pause Menu - Interface/Group - Buttons/Button - Quit/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '返回'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Pause Menu - Interface/Group - Buttons/Button - Resume/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '保存'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Pause Menu - Interface/Group - Buttons/Button - Save/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=30>继续游戏</size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Pause Menu - Interface/Group - Buttons/Button - Resume/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=30><color=#ffffff>保存存档</color></size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Pause Menu - Interface/Group - Buttons/Button - Save/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=30>退出</size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Pause Menu - Interface/Group - Buttons/Button - Quit/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=20><color=#ff0000>(你只能在避难所或者床(睡袋)中来保存游戏!)</color></size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Pause Menu - Interface/Group - Buttons/Button - Save/Label - Save Warning
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=30>退出桌面</size>'
+[Info   :XUnity.AutoTranslator] Path : /CONTAINER - Main Menu/UI - Menus/Views/Canvas/View - Main Menu/Main Menu/Pause Menu - Interface/Group - Buttons/Button - Quit To Desktop/Label
+[Info   :XUnity.AutoTranslator] Level: 1
+[Info   :XUnity.AutoTranslator] Setting text on 'TMPro.TextMeshProUGUI' to '<size=35>我中毒了!</size>'
+[Info   :XUnity.AutoTranslator] Path : /PlayerUI(Clone)/Canvas - Game/View - Player Speech(Clone)/Subtitles/Label - Subtitle
+[Info   :XUnity.AutoTranslator] Level: 1
