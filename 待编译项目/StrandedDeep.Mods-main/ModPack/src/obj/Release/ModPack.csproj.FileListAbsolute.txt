@@ -1,0 +1,7 @@
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\src\bin\Release\Stranded-Deep-Mod.dll.config
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\src\bin\Release\Stranded-Deep-Mod.dll
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\src\bin\Release\Stranded-Deep-Mod.pdb
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\src\obj\Release\ModPack.csproj.CoreCompileInputs.cache
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\Release\Stranded-Deep-Mod.dll.config
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\Release\Stranded-Deep-Mod.dll
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\src\obj\Release\Stranded-Deep-Mod.dll

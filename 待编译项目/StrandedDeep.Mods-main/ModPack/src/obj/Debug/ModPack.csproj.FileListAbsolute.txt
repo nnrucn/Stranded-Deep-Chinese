@@ -1,0 +1,15 @@
+C:\Users\de\Pictures\StrandedDeep.Mods-main\ModPack\src\obj\Debug\ModPack.csproj.AssemblyReference.cache
+C:\Users\de\Pictures\StrandedDeep.Mods-main\ModPack\src\obj\Debug\ModPack.csproj.CoreCompileInputs.cache
+C:\Users\de\Pictures\StrandedDeep.Mods-main\ModPack\src\obj\Debug\Stranded-Deep-Mod.dll
+C:\Users\de\Pictures\StrandedDeep.Mods-main\ModPack\Release\Stranded-Deep-Mod.dll.config
+C:\Users\de\Pictures\StrandedDeep.Mods-main\ModPack\Release\Stranded-Deep-Mod.dll
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\Release\Stranded-Deep-Mod.dll.config
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\Release\Stranded-Deep-Mod.dll
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\src\obj\Debug\ModPack.csproj.CoreCompileInputs.cache
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\src\obj\Debug\Stranded-Deep-Mod.dll
+C:\Users\de\Downloads\StrandedDeep.Mods-main - 副本\ModPack\Release\Stranded-Deep-Mod.dll.config
+C:\Users\de\Downloads\StrandedDeep.Mods-main - 副本\ModPack\Release\Stranded-Deep-Mod.dll
+C:\Users\de\Downloads\StrandedDeep.Mods-main - 副本\ModPack\src\obj\Debug\ModPack.csproj.AssemblyReference.cache
+C:\Users\de\Downloads\StrandedDeep.Mods-main - 副本\ModPack\src\obj\Debug\ModPack.csproj.CoreCompileInputs.cache
+C:\Users\de\Downloads\StrandedDeep.Mods-main - 副本\ModPack\src\obj\Debug\Stranded-Deep-Mod.dll
+C:\Users\de\Downloads\StrandedDeep.Mods-main\ModPack\src\obj\Debug\ModPack.csproj.AssemblyReference.cache
