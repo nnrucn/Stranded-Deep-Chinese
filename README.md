@@ -1,5 +1,7 @@
 # Stranded Deep Chinese
 
+## 下载量
+
 ![image](https://user-images.githubusercontent.com/83285056/178797640-50f82479-bbc9-4948-89bb-d3ec5591c4f1.png)
 
 
